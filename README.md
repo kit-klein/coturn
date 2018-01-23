@@ -30,7 +30,7 @@ TURN specs:
 
 STUN specs:
 
-  * RFC 3489 - "classic" STUN
+  * RFC 3489 - "classic" STUNss
   * RFC 5389 - base "new" STUN specs
   * RFC 5769 - test vectors for STUN protocol testing
   * RFC 5780 - NAT behavior discovery support
