@@ -8,7 +8,7 @@
 
 The TURN Server is a VoIP media traffic NAT traversal server and gateway. It can be used as a general-purpose network traffic TURN server and gateway, too.
 
-On-line management interface (over telnet or over HTTPS) for the TURN server is available.
+On-line management interface (over telnet or over HTTPS) for the TURN server is available. and kit
 
 The implementation also includes some extra experimental features.
 
